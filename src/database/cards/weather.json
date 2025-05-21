@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Biting Frost",
+		"id": "4",
+		"deck": "weather",
+		"row": "",
+		"strength": "",
+		"ability": "frost",
+		"filename": "frost",
+		"count": "3"
+	},
+	{
+		"name": "Clear Weather",
+		"id": "7",
+		"deck": "weather",
+		"row": "",
+		"strength": "",
+		"ability": "clear",
+		"filename": "clear",
+		"count": "2"
+	},
+	{
+		"name": "Impenetrable Fog",
+		"id": "5",
+		"deck": "weather",
+		"row": "",
+		"strength": "",
+		"ability": "fog",
+		"filename": "fog",
+		"count": "3"
+	},
+	{
+		"name": "Skellige Storm",
+		"id": "",
+		"deck": "weather",
+		"row": "",
+		"strength": "",
+		"ability": "rain fog",
+		"filename": "storm",
+		"count": "3"
+	}
+]
