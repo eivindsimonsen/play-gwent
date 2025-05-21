@@ -1,55 +1,5 @@
 [
 	{
-		"name": "Emhyr var Emreis - His Imperial Majesty",
-		"id": "1",
-		"deck": "nilfgaard",
-		"row": "leader",
-		"strength": "",
-		"ability": "emhyr_imperial",
-		"filename": "emhyr_silver",
-		"count": "1"
-	},
-	{
-		"name": "Emhyr var Emreis - Emperor of Nilfgaard",
-		"id": "2",
-		"deck": "nilfgaard",
-		"row": "leader",
-		"strength": "",
-		"ability": "emhyr_emperor",
-		"filename": "emhyr_copper",
-		"count": "1"
-	},
-	{
-		"name": "Emhyr var Emreis - the White Flame",
-		"id": "3",
-		"deck": "nilfgaard",
-		"row": "leader",
-		"strength": "",
-		"ability": "emhyr_whiteflame",
-		"filename": "emhyr_bronze",
-		"count": "1"
-	},
-	{
-		"name": "Emhyr var Emreis - The Relentless",
-		"id": "4",
-		"deck": "nilfgaard",
-		"row": "leader",
-		"strength": "",
-		"ability": "emhyr_relentless",
-		"filename": "emhyr_gold",
-		"count": "1"
-	},
-	{
-		"name": "Emhyr var Emreis - Invader of the North",
-		"id": "",
-		"deck": "nilfgaard",
-		"row": "leader",
-		"strength": "",
-		"ability": "emhyr_invader",
-		"filename": "emhyr_invader_of_the_north",
-		"count": "1"
-	},
-	{
 		"name": "Albrich",
 		"id": "68",
 		"deck": "nilfgaard",

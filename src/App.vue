@@ -5,20 +5,14 @@ import PreGame from "./components/PreGame.vue";
 
 <template>
   <main>
-    <!-- <h1>Gwent Card Game</h1> -->
      <PreGame />
-     <div class="opponent-sentry">awdawd</div>
-     <div class="opponent-length">awdawd</div>
-     <div class="opponent-close">awdawd</div>
-     <div class="player-sentry">awdawd</div>
-     <div class="player-length">awdawd</div>
-     <div class="player-close">awdawd</div>
   </main>
 </template>
 
 <style>
 * {
   box-sizing: border-box;
+  cursor: url(assets/icons/cursor.png), auto;
 }
 
 h1 {

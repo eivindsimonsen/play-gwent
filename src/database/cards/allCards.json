@@ -77,7 +77,8 @@
 		"strength": "5",
 		"ability": "",
 		"filename": "emiel",
-		"count": "1"
+		"count": "1",
+		"image": "monsters_ekkima.jpg"
 	},
 	{
 		"name": "Geralt of Rivia",

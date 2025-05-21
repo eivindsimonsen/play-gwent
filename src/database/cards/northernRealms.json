@@ -1,55 +1,5 @@
 [
 	{
-		"name": "Foltest - King of Temeria",
-		"id": "5",
-		"deck": "realms",
-		"row": "leader",
-		"strength": "",
-		"ability": "foltest_king",
-		"filename": "foltest_silver",
-		"count": "1"
-	},
-	{
-		"name": "Foltest - Lord Commander of the North",
-		"id": "8",
-		"deck": "realms",
-		"row": "leader",
-		"strength": "",
-		"ability": "foltest_lord",
-		"filename": "foltest_gold",
-		"count": "1"
-	},
-	{
-		"name": "Foltest - The Siegemaster",
-		"id": "6",
-		"deck": "realms",
-		"row": "leader",
-		"strength": "",
-		"ability": "foltest_siegemaster",
-		"filename": "foltest_copper",
-		"count": "1"
-	},
-	{
-		"name": "Foltest - The Steel-Forged",
-		"id": "7",
-		"deck": "realms",
-		"row": "leader",
-		"strength": "",
-		"ability": "foltest_steelforged",
-		"filename": "foltest_bronze",
-		"count": "1"
-	},
-	{
-		"name": "Foltest - Son of Medell",
-		"id": "",
-		"deck": "realms",
-		"row": "leader",
-		"strength": "",
-		"ability": "foltest_son",
-		"filename": "foltest_son_of_medell",
-		"count": "1"
-	},
-	{
 		"name": "Ballista",
 		"id": "79",
 		"deck": "realms",

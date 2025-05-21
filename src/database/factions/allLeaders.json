@@ -1,0 +1,222 @@
+[
+	{
+		"name": "Foltest - King of Temeria",
+		"id": "5",
+		"deck": "realms",
+		"row": "leader",
+		"strength": "",
+		"ability": "foltest_king",
+		"filename": "foltest_silver",
+		"count": "1"
+	},
+	{
+		"name": "Foltest - Lord Commander of the North",
+		"id": "8",
+		"deck": "realms",
+		"row": "leader",
+		"strength": "",
+		"ability": "foltest_lord",
+		"filename": "foltest_gold",
+		"count": "1"
+	},
+	{
+		"name": "Foltest - The Siegemaster",
+		"id": "6",
+		"deck": "realms",
+		"row": "leader",
+		"strength": "",
+		"ability": "foltest_siegemaster",
+		"filename": "foltest_copper",
+		"count": "1"
+	},
+	{
+		"name": "Foltest - The Steel-Forged",
+		"id": "7",
+		"deck": "realms",
+		"row": "leader",
+		"strength": "",
+		"ability": "foltest_steelforged",
+		"filename": "foltest_bronze",
+		"count": "1"
+	},
+	{
+		"name": "Foltest - Son of Medell",
+		"id": "",
+		"deck": "realms",
+		"row": "leader",
+		"strength": "",
+		"ability": "foltest_son",
+		"filename": "foltest_son_of_medell",
+		"count": "1"
+	},
+	{
+		"name": "Emhyr var Emreis - His Imperial Majesty",
+		"id": "1",
+		"deck": "nilfgaard",
+		"row": "leader",
+		"strength": "",
+		"ability": "emhyr_imperial",
+		"filename": "emhyr_silver",
+		"count": "1"
+	},
+	{
+		"name": "Emhyr var Emreis - Emperor of Nilfgaard",
+		"id": "2",
+		"deck": "nilfgaard",
+		"row": "leader",
+		"strength": "",
+		"ability": "emhyr_emperor",
+		"filename": "emhyr_copper",
+		"count": "1"
+	},
+	{
+		"name": "Emhyr var Emreis - the White Flame",
+		"id": "3",
+		"deck": "nilfgaard",
+		"row": "leader",
+		"strength": "",
+		"ability": "emhyr_whiteflame",
+		"filename": "emhyr_bronze",
+		"count": "1"
+	},
+	{
+		"name": "Emhyr var Emreis - The Relentless",
+		"id": "4",
+		"deck": "nilfgaard",
+		"row": "leader",
+		"strength": "",
+		"ability": "emhyr_relentless",
+		"filename": "emhyr_gold",
+		"count": "1"
+	},
+	{
+		"name": "Emhyr var Emreis - Invader of the North",
+		"id": "",
+		"deck": "nilfgaard",
+		"row": "leader",
+		"strength": "",
+		"ability": "emhyr_invader",
+		"filename": "emhyr_invader_of_the_north",
+		"count": "1"
+	},
+	{
+		"name": "Eredin - Commander of the Red Riders",
+		"id": "134",
+		"deck": "monsters",
+		"row": "leader",
+		"strength": "",
+		"ability": "eredin_commander",
+		"filename": "eredin_silver",
+		"count": "1"
+	},
+	{
+		"name": "Eredin - Bringer of Death",
+		"id": "136",
+		"deck": "monsters",
+		"row": "leader",
+		"strength": "",
+		"ability": "eredin_bringer_of_death",
+		"filename": "eredin_bronze",
+		"count": "1"
+	},
+	{
+		"name": "Eredin - Destroyer of Worlds",
+		"id": "137",
+		"deck": "monsters",
+		"row": "leader",
+		"strength": "",
+		"ability": "eredin_destroyer",
+		"filename": "eredin_gold",
+		"count": "1"
+	},
+	{
+		"name": "Eredin - King of the Wild Hunt",
+		"id": "135",
+		"deck": "monsters",
+		"row": "leader",
+		"strength": "",
+		"ability": "eredin_king",
+		"filename": "eredin_copper",
+		"count": "1"
+	},
+	{
+		"name": "Eredin Bréacc Glas - The Treacherous",
+		"id": "",
+		"deck": "monsters",
+		"row": "leader",
+		"strength": "",
+		"ability": "eredin_treacherous",
+		"filename": "eredin_the_treacherous",
+		"count": "1"
+	},
+	{
+		"name": "Francesca Findabair - Queen of Dol Blathanna",
+		"id": "13",
+		"deck": "scoiatael",
+		"row": "leader",
+		"strength": "",
+		"ability": "francesca_queen",
+		"filename": "francesca_silver",
+		"count": "1"
+	},
+	{
+		"name": "Francesca Findabair - the Beautiful",
+		"id": "14",
+		"deck": "scoiatael",
+		"row": "leader",
+		"strength": "",
+		"ability": "francesca_beautiful",
+		"filename": "francesca_gold",
+		"count": "1"
+	},
+	{
+		"name": "Francesca Findabair - Daisy of the Valley",
+		"id": "15",
+		"deck": "scoiatael",
+		"row": "leader",
+		"strength": "",
+		"ability": "francesca_daisy",
+		"filename": "francesca_copper",
+		"count": "1"
+	},
+	{
+		"name": "Francesca Findabair - Pureblood Elf",
+		"id": "16",
+		"deck": "scoiatael",
+		"row": "leader",
+		"strength": "",
+		"ability": "francesca_pureblood",
+		"filename": "francesca_bronze",
+		"count": "1"
+	},
+	{
+		"name": "Francesca Findabair - Hope of the Aen Seidhe",
+		"id": "",
+		"deck": "scoiatael",
+		"row": "leader",
+		"strength": "",
+		"ability": "francesca_hope",
+		"filename": "francesca_hope_of_the_aen_seidhe",
+		"count": "1"
+	},
+	{
+		"name": "Crach an Craite",
+		"id": "",
+		"deck": "skellige",
+		"row": "leader",
+		"strength": "",
+		"ability": "crach_an_craite",
+		"filename": "crach_an_craite",
+		"count": "0"
+	},
+	{
+		"name": "King Bran",
+		"id": "",
+		"deck": "skellige",
+		"row": "leader",
+		"strength": "",
+		"ability": "king_bran",
+		"filename": "king_bran",
+		"count": "0"
+	}
+]

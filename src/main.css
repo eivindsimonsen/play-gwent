@@ -2,6 +2,8 @@
   /* Colors */
   --background-color: #242424;
   --background-color-transparent: rgba(36, 36, 36, 0.9);
+  --scrollbar-thumb-color: #434343;
+  --scrollbar-track-color: #2b2a2a;
 
   /* Fonts */
   --font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;

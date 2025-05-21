@@ -1,55 +1,5 @@
 [
 	{
-		"name": "Eredin - Commander of the Red Riders",
-		"id": "134",
-		"deck": "monsters",
-		"row": "leader",
-		"strength": "",
-		"ability": "eredin_commander",
-		"filename": "eredin_silver",
-		"count": "1"
-	},
-	{
-		"name": "Eredin - Bringer of Death",
-		"id": "136",
-		"deck": "monsters",
-		"row": "leader",
-		"strength": "",
-		"ability": "eredin_bringer_of_death",
-		"filename": "eredin_bronze",
-		"count": "1"
-	},
-	{
-		"name": "Eredin - Destroyer of Worlds",
-		"id": "137",
-		"deck": "monsters",
-		"row": "leader",
-		"strength": "",
-		"ability": "eredin_destroyer",
-		"filename": "eredin_gold",
-		"count": "1"
-	},
-	{
-		"name": "Eredin - King of the Wild Hunt",
-		"id": "135",
-		"deck": "monsters",
-		"row": "leader",
-		"strength": "",
-		"ability": "eredin_king",
-		"filename": "eredin_copper",
-		"count": "1"
-	},
-	{
-		"name": "Eredin Bréacc Glas - The Treacherous",
-		"id": "",
-		"deck": "monsters",
-		"row": "leader",
-		"strength": "",
-		"ability": "eredin_treacherous",
-		"filename": "eredin_the_treacherous",
-		"count": "1"
-	},
-	{
 		"name": "Arachas ",
 		"id": "27",
 		"deck": "monsters",

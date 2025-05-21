@@ -1,55 +1,5 @@
 [
 	{
-		"name": "Francesca Findabair - Queen of Dol Blathanna",
-		"id": "13",
-		"deck": "scoiatael",
-		"row": "leader",
-		"strength": "",
-		"ability": "francesca_queen",
-		"filename": "francesca_silver",
-		"count": "1"
-	},
-	{
-		"name": "Francesca Findabair - the Beautiful",
-		"id": "14",
-		"deck": "scoiatael",
-		"row": "leader",
-		"strength": "",
-		"ability": "francesca_beautiful",
-		"filename": "francesca_gold",
-		"count": "1"
-	},
-	{
-		"name": "Francesca Findabair - Daisy of the Valley",
-		"id": "15",
-		"deck": "scoiatael",
-		"row": "leader",
-		"strength": "",
-		"ability": "francesca_daisy",
-		"filename": "francesca_copper",
-		"count": "1"
-	},
-	{
-		"name": "Francesca Findabair - Pureblood Elf",
-		"id": "16",
-		"deck": "scoiatael",
-		"row": "leader",
-		"strength": "",
-		"ability": "francesca_pureblood",
-		"filename": "francesca_bronze",
-		"count": "1"
-	},
-	{
-		"name": "Francesca Findabair - Hope of the Aen Seidhe",
-		"id": "",
-		"deck": "scoiatael",
-		"row": "leader",
-		"strength": "",
-		"ability": "francesca_hope",
-		"filename": "francesca_hope_of_the_aen_seidhe",
-		"count": "1"
-	},
-	{
 		"name": "Ciaran aep Easnillien",
 		"id": "122",
 		"deck": "scoiatael",
