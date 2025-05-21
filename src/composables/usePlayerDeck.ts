@@ -1,6 +1,6 @@
 import { ref, type Ref } from 'vue';
 import type { Card } from '../types/Card';
-import allCards from '../database/cards/allCards.json';
+import allCards from '../database/testing/allCards.json';
 import starterDeck from '../database/decks/starterDeck.json';
 
 export function usePlayerDeck() {
