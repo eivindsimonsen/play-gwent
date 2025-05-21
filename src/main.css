@@ -1,0 +1,11 @@
+:root {
+  /* Colors */
+  --background-color: #242424;
+  --background-color-transparent: rgba(36, 36, 36, 0.9);
+
+  /* Fonts */
+  --font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  /* Background Images */
+  --background-image: url("/src/assets/board.jpg");
+}
